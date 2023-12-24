@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/silver-octo-deploy/static/css/main.f855e6bc.css",
-    "main.js": "/silver-octo-deploy/static/js/main.38742cb4.js",
+    "main.js": "/silver-octo-deploy/static/js/main.8326e8e9.js",
     "static/js/787.5eef0227.chunk.js": "/silver-octo-deploy/static/js/787.5eef0227.chunk.js",
     "index.html": "/silver-octo-deploy/index.html",
     "main.f855e6bc.css.map": "/silver-octo-deploy/static/css/main.f855e6bc.css.map",
-    "main.38742cb4.js.map": "/silver-octo-deploy/static/js/main.38742cb4.js.map",
+    "main.8326e8e9.js.map": "/silver-octo-deploy/static/js/main.8326e8e9.js.map",
     "787.5eef0227.chunk.js.map": "/silver-octo-deploy/static/js/787.5eef0227.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.38742cb4.js"
+    "static/js/main.8326e8e9.js"
   ]
 }
