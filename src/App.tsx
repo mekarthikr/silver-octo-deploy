@@ -7,7 +7,7 @@ function App() {
         <div className="row">
           <div className="col-lg-8 mx-auto">
             <div className="resume-section">
-              <h2 className="mb-4">Karthik R</h2>
+              <h2 className="mb-4">Karthik</h2>
               <p>
                 <i className="fas fa-map-marker-alt"></i> Ernakulam, Kerala
               </p>
